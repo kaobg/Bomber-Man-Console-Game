@@ -1,0 +1,15 @@
+c:\users\kao-pc\documents\visual studio 2012\Projects\BomberManOOPProject\BomberManOOPProject\bin\Debug\BomberManOOPProject.exe.config
+c:\users\kao-pc\documents\visual studio 2012\Projects\BomberManOOPProject\BomberManOOPProject\bin\Debug\BomberManOOPProject.exe
+c:\users\kao-pc\documents\visual studio 2012\Projects\BomberManOOPProject\BomberManOOPProject\bin\Debug\BomberManOOPProject.pdb
+c:\users\kao-pc\documents\visual studio 2012\Projects\BomberManOOPProject\BomberManOOPProject\obj\Debug\BomberManOOPProject.csprojResolveAssemblyReference.cache
+c:\users\kao-pc\documents\visual studio 2012\Projects\BomberManOOPProject\BomberManOOPProject\obj\Debug\BomberManOOPProject.exe
+c:\users\kao-pc\documents\visual studio 2012\Projects\BomberManOOPProject\BomberManOOPProject\obj\Debug\BomberManOOPProject.pdb
+C:\Users\Sveja\Google Диск\dev\BomberManOOPProject\BomberManOOPProject\bin\Debug\BomberManOOPProject.exe.config
+C:\Users\Sveja\Google Диск\dev\BomberManOOPProject\BomberManOOPProject\obj\Debug\BomberManOOPProject.exe
+C:\Users\Sveja\Google Диск\dev\BomberManOOPProject\BomberManOOPProject\obj\Debug\BomberManOOPProject.pdb
+C:\Users\Sveja\Google Диск\dev\BomberManOOPProject\BomberManOOPProject\bin\Debug\BomberManOOPProject.exe
+C:\Users\Sveja\Google Диск\dev\BomberManOOPProject\BomberManOOPProject\bin\Debug\BomberManOOPProject.pdb
+C:\Users\Sveja\Google Диск\dev\BomberManOOPProject\BomberManOOPProject\obj\Debug\BomberManOOPProject.csprojResolveAssemblyReference.cache
+C:\Users\Kaloyan\Documents\BomberManOOPProject\BomberManOOPProject\bin\Debug\BomberManOOPProject.exe.config
+C:\Users\Kaloyan\Documents\BomberManOOPProject\BomberManOOPProject\obj\Debug\BomberManOOPProject.exe
+C:\Users\Kaloyan\Documents\BomberManOOPProject\BomberManOOPProject\obj\Debug\BomberManOOPProject.pdb
